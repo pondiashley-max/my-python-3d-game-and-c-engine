@@ -1,0 +1,20 @@
+# python caches & compiled native extensions
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.dylib
+*.dll
+build/
+dist/
+*.egg-info/
+
+# local runtime save data & generated screenshots
+maximus_save.json
+screenshots/
+
+# os & ide files
+.DS_Store
+.vscode/
+.idea/
+*.swp
